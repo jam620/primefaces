@@ -8,7 +8,7 @@ La vulnerabilidad presente es una RCE (remote code execution), que permite ataca
 
 ##### 1. Enumeración 
 
-Una vez descubrimos que la existencia de una librería presente en la aplicación llamada primefaces, encargada de generar pdf, decidimos realizar una búsqueda en shodan para identificar posibles objetivos
+Una vez descubrimos que la existencia de una librería presente en la aplicación de Xetux, la librería en cuestión es llamada primefaces, encargada de generar pdf, decidimos realizar una búsqueda en shodan para identificar posibles objetivos
 
 ```
 http.title:"@XETUX" country:PA
