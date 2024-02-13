@@ -74,7 +74,7 @@ Nos devolverá el resultado del comando
 
 ![6](img/6.png)
 
-Ahora vamos a proceder a obtener la shell reversa, debemos destacar que algunos targets tenían el AV activado y más de una solución de seguridad por lo que se debe realizar el bypass correspondiente. No procederemos a demostrar las técnicas de bypass, pero mostramos en la siguiente imagen el acceso al server:
+Ahora vamos a proceder a obtener la shell reversa,  para obtener el acceso al server:
 
 ![7](img/7.png)
 
