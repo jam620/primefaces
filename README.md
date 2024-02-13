@@ -18,7 +18,7 @@ La búsqueda arrojo 40 resultados y 334 en el mundo
 
 ![1](img/1.png)
 
-Procedemos a comprobar la vulnerabilidad en uns objetivos que no se encontraban en Panamá, al analizar los resultados el backend 
+Procedemos a comprobar la vulnerabilidad en uno de los objetivos que no se encontraban en Panamá, al analizar los resultados el backend 
 
 ![3](img/3.png)
 
